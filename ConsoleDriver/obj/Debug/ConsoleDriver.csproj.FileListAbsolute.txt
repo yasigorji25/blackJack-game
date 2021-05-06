@@ -1,0 +1,12 @@
+C:\Users\Jasmine Gorji\Desktop\Card Games\ConsoleDriver\bin\Debug\ConsoleDriver.exe.config
+C:\Users\Jasmine Gorji\Desktop\Card Games\ConsoleDriver\bin\Debug\ConsoleDriver.exe
+C:\Users\Jasmine Gorji\Desktop\Card Games\ConsoleDriver\bin\Debug\ConsoleDriver.pdb
+C:\Users\Jasmine Gorji\Desktop\Card Games\ConsoleDriver\bin\Debug\GameObjects.dll
+C:\Users\Jasmine Gorji\Desktop\Card Games\ConsoleDriver\bin\Debug\Games.dll
+C:\Users\Jasmine Gorji\Desktop\Card Games\ConsoleDriver\bin\Debug\Games.pdb
+C:\Users\Jasmine Gorji\Desktop\Card Games\ConsoleDriver\bin\Debug\GameObjects.pdb
+C:\Users\Jasmine Gorji\Desktop\Card Games\ConsoleDriver\obj\Debug\ConsoleDriver.csproj.CoreCompileInputs.cache
+C:\Users\Jasmine Gorji\Desktop\Card Games\ConsoleDriver\obj\Debug\ConsoleDriver.csproj.CopyComplete
+C:\Users\Jasmine Gorji\Desktop\Card Games\ConsoleDriver\obj\Debug\ConsoleDriver.exe
+C:\Users\Jasmine Gorji\Desktop\Card Games\ConsoleDriver\obj\Debug\ConsoleDriver.pdb
+C:\Users\Jasmine Gorji\Desktop\Card Games\ConsoleDriver\obj\Debug\ConsoleDriver.csprojResolveAssemblyReference.cache

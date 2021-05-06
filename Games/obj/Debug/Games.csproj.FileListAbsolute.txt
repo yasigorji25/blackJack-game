@@ -1,0 +1,9 @@
+C:\Users\Jasmine Gorji\Desktop\Card Games\Games\bin\Debug\Games.dll
+C:\Users\Jasmine Gorji\Desktop\Card Games\Games\bin\Debug\Games.pdb
+C:\Users\Jasmine Gorji\Desktop\Card Games\Games\bin\Debug\GameObjects.dll
+C:\Users\Jasmine Gorji\Desktop\Card Games\Games\bin\Debug\GameObjects.pdb
+C:\Users\Jasmine Gorji\Desktop\Card Games\Games\obj\Debug\Games.csproj.CoreCompileInputs.cache
+C:\Users\Jasmine Gorji\Desktop\Card Games\Games\obj\Debug\Games.csproj.CopyComplete
+C:\Users\Jasmine Gorji\Desktop\Card Games\Games\obj\Debug\Games.dll
+C:\Users\Jasmine Gorji\Desktop\Card Games\Games\obj\Debug\Games.pdb
+C:\Users\Jasmine Gorji\Desktop\Card Games\Games\obj\Debug\Games.csprojResolveAssemblyReference.cache
